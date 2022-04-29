@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Tandulkar</h1>
 <h3 align="center">A passionate Full Stack developer & Open Source Contributor from India</h3>
-<img alt="coading" align="right" style="border-radius: 1rem" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img alt="coading" align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajtcodes&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajtcodes" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dhirajtcodes" target="blank"><img src="https://img.shields.io/twitter/follow/dhirajtcodes?logo=twitter&style=for-the-badge" alt="dhirajtcodes" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dhirajcodes" target="blank"><img src="https://img.shields.io/twitter/follow/dhirajtcodes?logo=twitter&style=for-the-badge" alt="dhirajcodes" /></a> </p>
 
 - 🔭 I’m currently working on **HealthCare Dashboard**
 
